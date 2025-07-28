@@ -14,6 +14,8 @@ function addItem (e) {
     }
 
 
+// Random text
+
 // Create list item
 const li = document.createElement('li');
 li.appendChild(document.createTextNode(newItem));
